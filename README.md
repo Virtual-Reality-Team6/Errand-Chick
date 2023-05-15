@@ -3,3 +3,4 @@
 
 김영서(@kkys00)
 
+gitignore
